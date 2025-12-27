@@ -1,0 +1,23 @@
+# Ignore the heavy node_modules folder
+**/node_modules/
+
+# Ignore the python environment
+venv/
+env/
+__pycache__/
+
+# Ignore compiled files
+*.pyc
+*.pkl
+.DS_Store
+
+# Ignore Next.js build files
+frontend/.next/
+frontend/out/
+
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.next/
